@@ -1,16 +1,28 @@
-### Hi there 👋
+### Oi, me chamo Ana 👋
 
-<!--
-**Anaportfolio/Anaportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Conhecimento nas linguagens:**
+  - Java
+  - SQL
+  - Python
+  - PHP
+  - JavaScript
 
-Here are some ideas to get you started:
+**Conhecimento nas IDEs:**
+  - Eclipse
+  - Android Studio
+  - Netbeans
+  - Spring Boot
+  - VScode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Aperfeiçoamento Profissional:  **
+  - Curso Javascript: conceitos e bibliotecas - UNICAMP 
+  - Curso UI e UX Design - UNICAMP
+  - Curso Introdução à lógica de programação - UNICAMP
+  - Curso Programação Android - UNICAMP
+  - Curso Boas práticas em desenvolvimento de software - UNICAMP
+  - Curso Desenvolvimento Web com AngularJS - UNICAMP 
+  - Curso Arquitetura da Informação e Projetos de Sistema - UNICAMP
+  - Curso Java COMPLETO 2023 Programação Orientada a Objetos + Projetos - Udemy 
+  - Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO - Udemy ( Em andamento)
+  - Curso Python 3 completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação (Em andamento)
+
