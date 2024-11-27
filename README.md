@@ -23,6 +23,7 @@
   - Curso Desenvolvimento Web com AngularJS - UNICAMP 
   - Curso Arquitetura da Informação e Projetos de Sistema - UNICAMP
   - Curso Java COMPLETO 2023 Programação Orientada a Objetos + Projetos - Udemy 
-  - Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO - Udemy ( Em andamento)
-  - Curso Python 3 completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação - Udemy (Em andamento)
+  - Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO - Udemy ( Cursando)
+  - Curso Python 3 completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação - Udemy (Cursando)
+  - Curso Completo de Modelagem de Banco de Dados na prática - Udemy (Cursando)
 
