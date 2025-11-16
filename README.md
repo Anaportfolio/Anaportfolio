@@ -7,7 +7,7 @@ Ao longo dos anos, venho construindo uma trajetória de estudos consistente, pas
 
 Busco sempre evoluir, experimentar novas tecnologias e me desafiar em projetos reais — com foco em entregar soluções eficientes, bem estruturadas e pensadas para o usuário.
 
-## 🧠 Conheciementos
+## 🧠 Conhecimentos
 ### Linguagens
 [![Linguagem de programação](https://skillicons.dev/icons?i=js,html,css,python,java,php)](https://skillicons.dev)
 
