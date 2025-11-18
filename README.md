@@ -1,4 +1,8 @@
 # Olá, sou Ana Beatriz 👋🏽
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](biamaiaribeiro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+
 Sou uma desenvolvedora apaixonada por tecnologia, aprendizado contínuo e construção de soluções que fazem sentido na prática. Minha formação é marcada por uma combinação de bases sólidas em lógica e arquitetura de software com um forte interesse em experiência do usuário, qualidade e boas práticas de desenvolvimento.
 
 Trabalho com diversas linguagens e ferramentas, transitando entre frontend, backend e mobile, sempre buscando entender não apenas como fazer, mas por que fazer daquele jeito. Tenho afinidade com sistemas distribuídos, modelagem de dados, engenharia de software, UI/UX e testes, o que me permite atuar de forma abrangente em diferentes etapas de um projeto.
@@ -66,5 +70,7 @@ Curso Figma Design de Interface — Udemy (Cursando)
 PcD Tech Bradesco — Java & QA Developer (Cursando)
 
 </details>
+
+
 
 
