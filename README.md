@@ -1,7 +1,7 @@
 # Olá, sou Ana Beatriz 👋🏽
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](biamaiaribeiro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anaportfolio?tab=repositories)
 
 Sou uma desenvolvedora apaixonada por tecnologia, aprendizado contínuo e construção de soluções que fazem sentido na prática. Minha formação é marcada por uma combinação de bases sólidas em lógica e arquitetura de software com um forte interesse em experiência do usuário, qualidade e boas práticas de desenvolvimento.
 
